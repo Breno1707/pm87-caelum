@@ -1,0 +1,14 @@
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm-caelum.csprojResolveAssemblyReference.cache
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\MainWindow.g.cs
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\App.g.cs
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm-caelum_MarkupCompile.cache
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm-caelum_MarkupCompile.lref
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\bin\Debug\pm-caelum.exe
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\bin\Debug\pm-caelum.pdb
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\MainWindow.baml
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm-caelum.g.resources
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm_caelum.Properties.Resources.resources
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm-caelum.csproj.GenerateResource.Cache
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm-caelum.csproj.CoreCompileInputs.cache
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm-caelum.exe
+C:\Users\brenopiloto\Source\Repos\pm-caelum\pm-caelum\obj\Debug\pm-caelum.pdb
